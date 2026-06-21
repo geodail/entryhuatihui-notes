@@ -1,2 +1,14 @@
 # entryhuatihui-notes
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
